@@ -25,7 +25,11 @@ NODEJS na última LTS 12.16 (https://nodejs.org/en/)
 
 ## Autores
 
-* ** Amanda Lima
+* Amanda Lima
+* Beatriz Eudocio
+* Julia Torreão 
+* Talitha Caetano
+* Pedro Henrique
 
 Colaboradores: Equipe Malala HackFicaEmCasa.
 
